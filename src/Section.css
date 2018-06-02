@@ -1,0 +1,17 @@
+.open{
+    display: block;
+}
+.close{
+    display: none;
+}
+li{
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+.header{
+    font: 14px;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+}
